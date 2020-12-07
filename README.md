@@ -1,5 +1,5 @@
 # team_2
-- Data Analytics with story
+- Data Analytics with a story
 - Team Member : 강지은, 김나영, 신선주, 정우진, 조현주
 
 ## 삐용삐용! 어디가 아프세요? 상권별 코로나 몸살 진단! by 대성걸즈
