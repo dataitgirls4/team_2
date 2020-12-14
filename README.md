@@ -26,7 +26,7 @@
 
 (3). Model & Algorithms
 - K-means clustering의 변수로 표준화 및 정규화한 유동인구 , 직장인구, 집객시설, 상주인구, 점포수 사용 
-- [sklearn.cluster 의 KMeans 이용](블럭별_클러스터링.ipynb)
+- [sklearn.cluster 의 KMeans 이용](https://github.com/dataitgirls4/team_2/blob/main/%5B%EC%83%81%EA%B6%8C%20%EB%B6%84%EC%84%9D%5D%202.%20modeling/%EB%B8%94%EB%9F%AD%EB%B3%84_%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.ipynb)
 
 (4). Visualising
 - 시각화 툴을 이용한 상권별 매출 비교
