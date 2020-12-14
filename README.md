@@ -3,7 +3,7 @@
  
   ### Team Member
 | 이름  |      메일      |     주요 역할   |
-|----------|:-------------:| ---------------:|
+|----------|:-------------:| :---------------:|
  | 강지은 | cyanred9@gmail.com | Data analysis, Data visualization, Project planning |
  | 김나영 | nayoung5859@gmail.com |   Data analysis, Data visualization, Data modeling |
  | 신선주 | starsarah9055@gmail.com |   Data analysis, Project planning, Data modeling |
