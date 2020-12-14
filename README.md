@@ -8,11 +8,11 @@
  정우진 jwjin0330@gmail.com
  조현주 jesica08@naver.com </code></pre>
 
- | 강지은 | cyanred9@gmail.com |
- | 김나영 | nayoung5859@gmail.com |
- | 신선주 | starsarah9055@gmail.com |
- | 정우진 | jwjin0330@gmail.com |
- | 조현주 | jesica08@naver.com |
+ | 강지은 | cyanred9@gmail.com |   
+ | 김나영 | nayoung5859@gmail.com |   
+ | 신선주 | starsarah9055@gmail.com |   
+ | 정우진 | jwjin0330@gmail.com |   
+ | 조현주 | jesica08@naver.com |   
 
 # 프로젝트 목록
 ## 삐용삐용! 어디가 아프세요? 상권별 코로나 몸살 진단! by 대성걸즈      
