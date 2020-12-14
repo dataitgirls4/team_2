@@ -22,7 +22,7 @@
 - 주요 데이터셋: 서울시 우리마을가게 상권분석서비스(상권-추정매출)
 
 (2). Data Preprocessing
-- [min-max 정규화와 표준정규분포로 데이터 스케일링](데이터표준화.ipynb)
+- [min-max 정규화와 표준정규분포로 데이터 스케일링](https://github.com/dataitgirls4/team_2/blob/main/%5B%EC%83%81%EA%B6%8C%20%EB%B6%84%EC%84%9D%5D%201.%20preprocessing/%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%91%9C%EC%A4%80%ED%99%94.ipynb)
 
 (3). Model & Algorithms
 - K-means clustering의 변수로 표준화 및 정규화한 유동인구 , 직장인구, 집객시설, 상주인구, 점포수 사용 
