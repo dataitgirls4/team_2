@@ -37,7 +37,7 @@
 
 ### 보러가기:    
 - PPT: https://bit.ly/3mRjfLx
-- 노션: https://www.notion.so/ec4ebc6ff1be461f9f644b981fa18486
+- 노션: https://www.notion.so/by-0fbb3f7acdd1474083d04532a820468f
 
 
 ## 구해줘! 나홀로 홈즈 [의뢰인:93년생 김지수편] with 대성걸즈
