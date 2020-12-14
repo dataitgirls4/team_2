@@ -51,16 +51,16 @@
 ### Summary
 (1). Data Collection
 - 지방행정 인허가 데이터, 국토교통부실거래가 데이터, 열린데이터 광장 등  
-- 기존의 데이터에 행정동, X좌표, Y좌표 칼럼을 추가하기 위해 카카오 맵 API를 이용한 코드 작성
+- [기존의 데이터에 행정동, X좌표, Y좌표 칼럼을 추가하기 위해 카카오 맵 API를 이용한 코드 작성](https://github.com/dataitgirls4/team_2/blob/main/%5B%EB%82%98%ED%99%80%EB%A1%9C%20%ED%99%88%EC%A6%88%5D%201.%20Preprocessing/%EC%B9%B4%EC%B9%B4%EC%98%A4api_%EC%B9%BC%EB%9F%BC%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0.ipynb)
 
 (2). Data Preprocessing
 - ESD방식을 통한 이상치 처리
-- `sklearn.preprocessing` 의 `StandardScaler` 과 `log화`를 통한 데이터 정규화/표준화
-- 각 카테코리의 최소-최대 점수를 맞춰주기 위해 `sklearn.preprocessing` 의 `MinMaxScaler` 를 통한 min-max 정규화
+- [`sklearn.preprocessing` 의 `StandardScaler` 과 `log화`를 통한 데이터 정규화/표준화](https://github.com/dataitgirls4/team_2/blob/main/%5B%EB%82%98%ED%99%80%EB%A1%9C%20%ED%99%88%EC%A6%88%5D%201.%20Preprocessing/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81.ipynb)
+- [각 카테코리의 최소-최대 점수를 맞춰주기 위해 `sklearn.preprocessing` 의 `MinMaxScaler` 를 통한 min-max 정규화](https://github.com/dataitgirls4/team_2/blob/main/%5B%EB%82%98%ED%99%80%EB%A1%9C%20%ED%99%88%EC%A6%88%5D%201.%20Preprocessing/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EC%A0%90%EC%88%98_minmax%EC%A0%95%EA%B7%9C%ED%99%94.ipynb)
 
 (3). Visualising
 - 시각화 툴(Tableau)를 이용하여 행정동별 데이터 시각화
-- plotly 와 matplotlib 을 통한 레이더 차트 작성
+- [plotly 와 matplotlib 을 통한 레이더 차트 작성](https://github.com/dataitgirls4/team_2/blob/main/%5B%EB%82%98%ED%99%80%EB%A1%9C%20%ED%99%88%EC%A6%88%5D%202.%20visualising/%EB%A0%88%EC%9D%B4%EB%8D%94%EC%B0%A8%ED%8A%B8%EC%8B%9C%EA%B0%81%ED%99%94_plotly.ipynb)
 
 (5). Review(피드백)
 - 대성걸즈의 분석을 비즈니스 가치로 연결시킬 수 있는 방법을 생각해보면 좋겠다.
