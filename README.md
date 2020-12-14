@@ -14,7 +14,7 @@
  | 조현주 | jesica08@naver.com |   Data analysis, Strorytelling, Statistical analysis |
 
 # 프로젝트 목록
-## 삐용삐용! 어디가 아프세요? 상권별 코로나 몸살 진단! by 대성걸즈      
+# 삐용삐용! 어디가 아프세요? 상권별 코로나 몸살 진단! by 대성걸즈      
 - 진행 기간 : 2020.09.15~2020.09.26   
 
 ### Background
