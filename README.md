@@ -8,6 +8,8 @@
  정우진 jwjin0330@gmail.com
  조현주 jesica08@naver.com </code></pre>
 
+| 이름  |      메일      |  
+|----------|:-------------:|
  | 강지은 | cyanred9@gmail.com |   
  | 김나영 | nayoung5859@gmail.com |   
  | 신선주 | starsarah9055@gmail.com |   
