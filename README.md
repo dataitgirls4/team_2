@@ -9,6 +9,8 @@
  | 신선주 | starsarah9055@gmail.com |   Data analysis, Project planning, Data modeling |
  | 정우진 | jwjin0330@gmail.com |   Data analysis, Strorytelling, Data visualizasion |
  | 조현주 | jesica08@naver.com |   Data analysis, Strorytelling, Statistical analysis |
+ 
+ <hr/>
 
 ## 삐용삐용! 어디가 아프세요? 상권별 코로나 몸살 진단! by 대성걸즈   
 - 진행 기간 : 2020.09.15~2020.09.26   
