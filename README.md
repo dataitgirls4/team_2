@@ -36,7 +36,8 @@
 - 코로나 타임라인과 분석 과정을 함께 보여주는 것 우리가 가진 data set의 큰 그림을 보여주는 작업이라 좋았다
 
 ### 보러가기:    
-https://bit.ly/3mRjfLx 
+- PPT: https://bit.ly/3mRjfLx
+- 노션: https://www.notion.so/ec4ebc6ff1be461f9f644b981fa18486
 
 
 ## 구해줘! 나홀로 홈즈 [의뢰인:93년생 김지수편] with 대성걸즈
